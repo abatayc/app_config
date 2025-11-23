@@ -2,5 +2,10 @@
   "latest_version": "1.0.1",
   "min_required_version": "1.0.0",
   "update_url": "https://play.google.com/store/apps/details?id=com.abatay.mathapp",
-  "message": "Yeni özellikler eklendi! Hemen güncelleyin 🎉"
+  
+  "message": {
+    "tr": "Yeni özellikler eklendi! Hemen güncelleyin 🎉",
+    "en": "New features added! Update now 🎉",
+    "ar": "تمت إضافة ميزات جديدة! قم بالتحديث الآن 🎉"
+  }
 }
