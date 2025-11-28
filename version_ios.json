@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0.3",
+  "min_required_version": "1.0.3",
+
+  "message": {
+    "tr": "Yeni bir iOS sürümü yayında. Lütfen App Store'dan güncelleyin.",
+    "en": "A new iOS version is available. Please update from the App Store."
+  },
+
+  "update_url_ios": "https://apps.apple.com/app/idXXXXXXXXXX",
+  "update_url_android": ""
+}
